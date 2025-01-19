@@ -25,4 +25,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/manascb1344"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manascb1344&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+![GitHub Trends](https://api.githubtrends.io/user/svg/manascb1344/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=dark)
+
 <a href="http://www.github.com/manascb1344"><img src="https://github-readme-activity-graph.vercel.app/graph?username=manascb1344&theme=github-compact" alt="GitHub Commits Graph" /></a>
