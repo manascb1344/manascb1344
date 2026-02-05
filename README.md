@@ -1,7 +1,7 @@
 # Manas
 
-— Software  
-— AI  
-— Systems  
+> software  
+> ai  
+> systems  
 
-manascb.me · zephop.com · linkedin.com/in/manas-bavaskar
+[manascb.me](https://manascb.me) · [zephop.com](https://zephop.com) · [linkedin](https://www.linkedin.com/in/manas-bavaskar/)
