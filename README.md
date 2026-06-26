@@ -1,4 +1,4 @@
-# Manas
+# Manas Bavaskar
 
 > software  
 > ai  
